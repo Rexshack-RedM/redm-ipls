@@ -3098,6 +3098,7 @@ RequestImap(952801839)-- Valentine
 RequestImap(-1487154162) --Vanhorn
 RequestImap(-605257184) -- Wallace
 --END BOUNTY BOARDS
+RemoveImap(1033721560) -- remove rhodes street junk (including wagon)
 
 -- Blackwater Town Hall
 RequestImap(-1906713208) -- Blackwater -- Tree's all around Blackwater
