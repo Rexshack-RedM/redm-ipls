@@ -1349,20 +1349,6 @@ RequestImap(-494733971)
 RequestImap(490883533)
 RequestImap(752665876)
 
--- ############# -- Casino boat
---RequestImap(-873881483)
---RequestImap(881979872)
---RequestImap(-614421509) -- boat shell
---RequestImap(604920544)  -- upstairs interior
---RequestImap(1382135686) -- main room interior
---RequestImap(-1968130469) -- railings
---RequestImap(-276259505) -- railings
---RequestImap(-1716205818)
---RequestImap(1056170594)
---RequestImap(1157695860)
---RequestImap(1859948183)
---RequestImap(-1688366042)
-
 -- ############# -- ferry boat
 RequestImap(-723094901)
 
@@ -3053,24 +3039,6 @@ RequestImap(1465430690)
 -- ############# -- Trelawny's Caravan
 RemoveImap(3804149174) -- Removes blocked entrance
 
--- ############# -- Horshoe Overlook
---RemoveImap(2022451711) -- Dutch's tent, messy
---RequestImap(1457661960) -- Dutch's tent half open front
-
--- ############# -- Casino boat
-RequestImap(-873881483) -- docked upstairs interior
-RequestImap(881979872) -- docked main interior
---RequestImap(-614421509) -- boat shell
---RequestImap(604920544)  -- upstairs interior
---RequestImap(1382135686) -- main room interior
---RequestImap(-1968130469) -- railings
---RequestImap(-276259505) -- railings
-RequestImap(-1716205818) -- not sure it changed anything
-RequestImap(1056170594)
---RequestImap(1157695860)
-RequestImap(1859948183)
-RequestImap(-1688366042)
-
 -- ############# -- Rexshack Gaming Discoveries
 RequestImap(291732199)
 RequestImap(120117259)
@@ -3079,6 +3047,7 @@ RequestImap(853534559)
 RequestImap(777139631)
 RequestImap(3759468402)
 RemoveImap(-159723514) -- valentine -- remove two barrels by the blacksmith
+
 -- BOUNTY BOARDS --
 --RequestImap(1570947227) -- Annesburg
 RequestImap(227456234) --Annesburg
