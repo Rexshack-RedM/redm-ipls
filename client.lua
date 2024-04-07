@@ -409,6 +409,7 @@ Citizen.CreateThread(function()
 
     ActivateInteriorEntitySets(42754, "Saint Denis bank", {
         "new_com_bank_before",
+        "new_com_bank_int_des",
         "new_com_bank_vaults_without_rayfire"
     })
 
