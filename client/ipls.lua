@@ -2010,7 +2010,7 @@ RequestImap(-826466486) -- something near cabin above
 RequestImap(-593183975) -- something near cabin above
 RequestImap(1433203214) -- something near cabin above
 --RequestImap(-362883443) -- something near cabin above
-RequestImap(-1559513478) -- lighting near cabin above
+--RequestImap(-1559513478) -- lighting near cabin above
 RequestImap(823583740) -- crates near cabin above 
 RequestImap(-630275010) -- campfire near cabin above 
 RequestImap(-164693058) -- campfire near cabin above 
