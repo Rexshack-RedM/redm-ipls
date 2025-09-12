@@ -2418,15 +2418,6 @@ RequestImap(1465430690)
 -- ############# -- Trelawny's Caravan
 RemoveImap(3804149174) -- Removes blocked entrance
 
--- ############# -- Rexshack Gaming Discoveries
-RequestImap(291732199)
-RequestImap(120117259)
---RequestImap(146172383)
-RequestImap(853534559)
-RequestImap(777139631)
-RequestImap(3759468402)
-RemoveImap(-159723514) -- valentine -- remove two barrels by the blacksmith
-
 -- BOUNTY BOARDS --
 --RequestImap(1570947227) -- Annesburg
 RequestImap(227456234) --Annesburg
@@ -2465,3 +2456,15 @@ RequestImap(-1632348233)-- Blackwater -- Town Hall -- Adds Trees and Grass (DO N
 RemoveImap(1173561253)    -- Blackwater -- Town Hall -- Tents Beside City Hall Near Trech
 RemoveImap(1641449717)  -- Blackwater -- Town Hall -- Grass along path near tents
 -- End of Blackwater Town Hall
+
+--------------------------------
+-- RSG Discoveries
+--------------------------------
+RequestImap(291732199)
+RequestImap(120117259)
+--RequestImap(146172383)
+RequestImap(853534559)
+RequestImap(777139631)
+RequestImap(3759468402)
+RemoveImap(-159723514) -- valentine -- remove two barrels by the blacksmith
+RemoveImap(-928815382) -- Fogs near saint denis train station
